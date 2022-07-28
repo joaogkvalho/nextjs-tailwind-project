@@ -1,4 +1,4 @@
-
+![nextjs-tailwind-project](https://user-images.githubusercontent.com/50122135/181504472-0dde950d-249e-489b-ba65-9f8ed1999fb4.png)
 
 > Status: Finished ✔️
 
